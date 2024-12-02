@@ -1,0 +1,23 @@
+Resumo do vídeo:
+
+Total de frames analisados: 3326
+Número de anomalias detectadas: 113
+
+Atividades detectadas:
+- Pessoa dançando: detectado 1 vezes
+- Pessoa acenando para a câmera: detectado 1 vezes
+- Atividade não identificada: detectado 1 vezes
+- Pessoa lendo: detectado 1 vezes
+- Pessoa mexendo no celular: detectado 1 vezes
+
+Emoções predominantes:
+- happy: detectado 26 vezes
+- neutral: detectado 22 vezes
+- surprise: detectado 14 vezes
+- sad: detectado 3 vezes
+- angry: detectado 2 vezes
+- fear: detectado 2 vezes
+
+Análise geral:
+A atividade mais frequente no vídeo foi 'Pessoa dançando', ocorrendo aproximadamente 1 vezes.
+A emoção predominante foi 'happy', aparecendo em aproximadamente 26 quadros.
