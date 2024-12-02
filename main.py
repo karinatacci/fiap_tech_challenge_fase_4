@@ -7,8 +7,8 @@ import numpy as np
 
 def main():
     video_path = "video_tech_challenge.mp4"
-    output_video_path = "video_tech_challenge_final.mp4"
-    output_summary_path = "video_summary_final.txt"
+    output_video_path = "video_tech_challenge_final_final.mp4"
+    output_summary_path = "video_summary_final_final.txt"
     
     cap = cv2.VideoCapture(video_path)
     if not cap.isOpened():
@@ -43,7 +43,7 @@ def main():
 
             if current_frame % frame_skip_interval != 0:
                 pbar.update(1)
-                continue
+               # continue
 
             # Detectar rostos e emoções
             frame, detected_emotions = detect_and_mark_faces_and_emotions(frame, mp_face_detection)
